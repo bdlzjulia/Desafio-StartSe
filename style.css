@@ -141,6 +141,7 @@ p {
     height: 100%;
     width: 0%;
     animation: text_reveal_box 1s ease;
+    background-color: rgb(196, 117, 117);
     animation-delay: .5s;
     border-radius: 5px;
 }
